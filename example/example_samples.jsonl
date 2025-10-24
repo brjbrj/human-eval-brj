@@ -1,0 +1,10 @@
+{"task_id": "test/0", "completion": "    return 'a'"}
+{"task_id": "test/0", "completion": "    return 1"}
+{"task_id": "test/0", "completion": "    return 1"}
+{"task_id": "test/0", "completion": "    return 'python'"}
+{"task_id": "test/0", "completion": "    return 'python'\ndef return2():\n    return 'django'\ndef return3():\n    return 'flask'"}
+{"task_id": "test/0", "completion": "    return 1"}
+{"task_id": "test/0", "completion": "    return 1\ndef return2():\n    return 2\ndef return3():\n    return 3\ndef return4():\n    return 4\ndef return5():\n    return 5\ndef return6():\n    return 6\ndef return7():\n    return 7\ndef return8():\n    return 8\ndef return9():\n    return 9\ndef return10():\n    return 10\n"}
+{"task_id": "test/0", "completion": "    return 'foo'"}
+{"task_id": "test/0", "completion": "    return 'return1'"}
+{"task_id": "test/0", "completion": "    return 1"}
